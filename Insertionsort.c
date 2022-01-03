@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int i,j,temp,n,a[100];
-void read(int[],int);
 void insert(int[],int);
 void print(int[],int);
 
